@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Copyright 2018 Google LLC.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+<resources>
+    <string name="app_name">FurnitureAR</string>
+    <string name="dialogTitle">Изберете обект!</string>
+    <string name="table">Маса</string>
+    <string name="BarChair">Бар Стол</string>
+    <string name="Chair">Стол</string>
+    <string name="lamp">Лампа</string>
+    <string name="woodenchair">Дървен стол</string>
+    <string name="laptopTable">Бюро</string>
+    <string name="wc">WC</string>
+    <string name="errorMessageEmptyRenderable">Моля изберете обект!</string>
+    <string name="nightStand">Нощно шкафче</string>
+    <string name="blackNightStand">Черно нощно шкафче</string>
+    <string name="sofa">Диван</string>
+    <string name="officeDesk">Офис бюро</string>
+
+
+    <array name="ObjectsArray">
+        <item>@string/table</item>
+        <item>@string/Chair</item>
+        <item>@string/lamp</item>
+        <item>@string/BarChair</item>
+        <item>@string/woodenchair</item>
+        <item>@string/laptopTable</item>
+        <item>@string/wc</item>
+        <item>@string/nightStand</item>
+        <item>@string/blackNightStand</item>
+        <item>@string/sofa</item>
+        <!--item>@string/officeDesk</item-->
+    </array>
+</resources>
